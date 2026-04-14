@@ -1,4 +1,4 @@
-# Sea Level Rise in Miami & Shanghai 
+# Sea Level Rise in Miami & Shanghai 🌊
 
 The goal of this project is to predict which areas within coastal cities will be affected in the future due to rising sea levels for the year 2110, more specifically in Miami and Shanghai 
 
